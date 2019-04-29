@@ -1,0 +1,86 @@
+Team project for a course called Practical Aspects of Software Design, studied at BUT FIT
+
+================================================
+
+MEMBERS: 
+	Dubec Branislav [xdubec01], 
+	Ježík Andrej[xjezik03], 
+	Kubík Tibor[xkubik34], 
+	Štrbák Boris[xstrba05]
+
+Date: 24th of February, 2019
+
+
+================================================
+
+Dates:
+	17th of March, 2019 - Tests, makefile and GUI design template
+	20th of March, 2019 - Plan
+	24th of March, 2019 - Mathematical library(basic ar. op., factorial, powering, general fr. and sine f.)
+	7th of April, 2019 - GUI, Profilling
+	14th of April, 2019 - Installer / Uninstaller, Debugguer documentation, Code and User documentation
+	21st of April, 2019 -  Maunal(Help), Final product and Mockup
+	24th of April, 2019 - Final product delivery
+	2nd of May, 2019 - Problems
+	3nd of May, 2019 - Installation at customer
+	14th of May, 2019 - Presentation
+
+
+================================================
+
+Divison of tasks:
+
+Structure: 
+	Name of task	 			---  Author  --- [Controle done by]
+_________________________________________________________________________________________
+1)	Tests for mathematical library 		--- xjezik03 --- [xkubik34]
+2)	Makefile 				--- xstrba05 --- [xdubec01]
+3)	Mathematical library
+ 3.1)	Basic arithmetic operations		--- xkubik34 --- [xdubec01]
+ 3.2)	Factorial, powering			--- xdubec01 --- [xstrba05]
+ 3.3)	General fraction 			--- xdubec01 --- [xstrba05]
+ 3.4)	Operator precedence			--- xdubec01 --- [xkubik34]
+ 3.5)	Input validation			--- xdubec01 --- [xkubik34]
+ 3.6)	(1 more function - sine function 	--- xstrba05 --- [xjezik03])
+4)	Managing repository 			--- xjezik03 --- [ALL MEMBERS]
+5)	Graphical User Interface (GUI) 		--- xkubik34 --- [xjezik03]
+6)	Brackets validation & calculation	--- xdubec01 --- [xstrba05]
+7)	User Documentation 			--- xkubik34 --- [xstrba05]
+8)	Code Documentation 			--- xdubec01 --- [xjezik03]
+9)	Manual(Help)				--- xstrba05 --- [xkubik34]
+10)	Profilling 				--- xdubec01 --- [xstrba05]
+11)	Mockup 					--- ALL MEMBERS -- [ALL MEMBERS]
+12)	Installer / Uninstaller 		--- xstrba05 --- [xkubik34]
+13)	Installation at customer 		--- ALL MEMBERS --- [-]
+14)	READ_ME.md creation 			--- xjezik03 --- [xdubec01]
+15)	Documentation of debugger usage 	--- xjezik03 --- [-]
+16)	Presentation 				--- xkubik34 --- [ALL MEMBERS]
+________________________________________________________________________________________
+
+We have devided tasks among team members during f2f meeting. We tried to divide tasks accoding to difficulty and time
+spent on each task. Altough for most tasks there is one author, we would like to participate and learn every 
+aspect of software developement, it means every single task is teamwork.
+
+
+===============================================
+
+Communiction:
+	The main way of communication is Discord. It is a application, where people can create rooms for chatting/calling.
+	We made a cannal called IVS - Group project, where we created several rooms,
+	each for separate part of developement.
+ 
+	We were meeting once a week during whole time of project creation. We were using whiteboard for notes,
+	problems and 
+
+details of our project.
+
+	For urgent situations, we shared our phone numbers. (e.g. deadlines, etc.)
+
+
+===============================================
+
+Hosting for repositories:
+	We used github. We allowed access for teachers by adding "ivs.kontrola@gmail.com" to our private repository
+
+
+==============================================

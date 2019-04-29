@@ -1,0 +1,4 @@
+xjezik03 100 (tests of math lib., READ_ME.md creation)
+xdubec01 100 (advanced math functions, code documentation)
+xkubik34 100 (basic arithmetic operations, GUI)
+xstrba05 100 (makefile, installer, uninstaller)

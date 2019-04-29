@@ -1,0 +1,15 @@
+/src/runTests
+/src/rebuscalc/Makefile
+/src/tests/tests_build/Makefile
+**/build_files
+**/debug
+*.o
+*.pro.user
+*.stash
+/src/doc
+/src/*gmon*
+/src/profile
+/src/RebusCalc
+**/googletest-master
+**.zip
+**/debian

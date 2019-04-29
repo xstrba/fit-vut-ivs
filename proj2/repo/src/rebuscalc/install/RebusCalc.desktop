@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Qt;Utility;
+Version=0.0.1
+Exec=RebusCalc
+GenericName=Calculator Utility
+Icon=RebusIcon.png
+Type=Application
+Name=RebusCalc
+X-KDE-StartupNotify=false 
+

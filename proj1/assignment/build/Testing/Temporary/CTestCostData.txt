@@ -1,0 +1,20 @@
+NonEmptyQueue.Insert 0 0
+NonEmptyQueue.RemoveAllForward 0 0
+NonEmptyQueue.RemoveAllBackward 0 0
+NonEmptyQueue.Find 0 0
+EmptyQueue.Insert 0 0
+EmptyQueue.Remove 24 0.000512044
+EmptyQueue.Find 24 0.000489453
+EmptyTree.Insert 2 0
+EmptyTree.InsertNode 2 0
+EmptyTree.DeleteNode 2 0.006199
+EmptyTree.FindNode 2 0.00555599
+NonEmptyTree.InsertNode 0 0
+---
+EmptyTree.InsertNode
+NonEmptyTree.InsertNode
+NonEmptyQueue.Insert
+NonEmptyQueue.RemoveAllForward
+NonEmptyQueue.RemoveAllBackward
+NonEmptyQueue.Find
+EmptyQueue.Insert

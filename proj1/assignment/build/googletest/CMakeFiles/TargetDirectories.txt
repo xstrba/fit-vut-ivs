@@ -1,0 +1,3 @@
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/rebuild_cache.dir
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/googletest.dir
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/googletest
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/googletest.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/CMakeFiles/googletest-complete.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/boris/Desktop/ivs_projekt/assignment/googletest/googletest-prefix/src/googletest-stamp/googletest-test.rule
